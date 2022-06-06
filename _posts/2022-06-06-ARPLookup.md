@@ -73,6 +73,12 @@ As you can see in the picture, ARPLookup.py says **_There's no libpcap provider 
 
 <img src="/assets/img/2022-06-06-ARPLookup/4-arplookup-download-zip.png" alt="Download ARPLookup source as ZIP file" />
 
+* Install required packages for Python
+
+```python
+pip install -r requirements.txt
+```
+
 ### And run it
 
 * Open a **CMD/PowerShell as Administrator** and switch extracted folder. Example:
