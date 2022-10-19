@@ -1,5 +1,5 @@
 ---
-title: ARPLookup - Batu33TR's Project
+title: ARPLookup - Batu33TR's Projects
 date: 2022-06-06 21:46:00 UTC+3
 categories: [Batu33TR's Projects]
 tags: [ethical-hacking]
@@ -29,7 +29,7 @@ sudo zypper in git python3 python3-pip # For OpenSUSE
 
 ```bash
 git clone https://github.com/Batu33TR/ARPLookup
-```
+```s
 
 * Switch cloned directory and install dependencies for Python
 
