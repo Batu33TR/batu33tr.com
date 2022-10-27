@@ -10,8 +10,8 @@ order: 4
 <img src="/assets/img/about/batu33tr.jpg" alt="Batu33TR" width="250" height="250" />
 
 ## Who is Batu33TR?
-* Jr. Software Engineer, Ethical Hacker and C#, Java, Python Developer.
+* Jr. Software Engineer, Ethical Hacker and Android App Developer.
 * Lives in Izmir, Turkey.
 * Like to follow developments in technology.
-* Currently learning Kotlin, C++, Golang, Unity and Unreal Engine.
+* Currently learning C#/dotNET, Kotlin, Java, Python and PHP.
 * Also I have Ethics/White Hat Hacker, Cyber Security Expertise, Cybercrime Specialization and Forensic Informatics Expertise Certificates from University of Turkish Aeronautical Association.
